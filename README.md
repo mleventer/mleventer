@@ -1,4 +1,3 @@
-<div>
 <h3 align="left">👋 Hi, I’m @mleventer</h3>
 <p align="left">A passionate technology consultant and software engineer contentedly wounded designing and building messaging systems and frameworks for:
 <ul><li>fintech</li><li>healthcare</li><li>and other cool industries.</li></ul></p>
@@ -25,4 +24,3 @@
 mleventer/mleventer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-</div>
