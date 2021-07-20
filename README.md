@@ -6,7 +6,7 @@
 <p align="left">In agile development techniques for complex applications applying knowledge engineering, domain-driven design (DDD), with effective technical writing.</p>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">Kubernetes, Edge computing, and Natural language processing.</p>
+<p align="left">As much as I possibly can, including: Kubernetes, Edge computing, Python, and Natural language processing.</p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <p align="left">Collaborate on open source projects improving their documentation and also on translations/localizations.</p>
