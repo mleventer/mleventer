@@ -6,13 +6,13 @@
 <p align="left">In agile development techniques for complex applications applying knowledge engineering, domain-driven design (DDD), with effective technical writing.</p>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">As much as I possibly can, including: Kubernetes, Edge computing, Python, and Natural language processing.</p>
+<p align="left">As much as I possibly can, including: Kubernetes, Edge computing, Go, Python, and Natural language processing.</p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <p align="left">Collaborate on open source projects improving their documentation and also on translations/localizations.</p>
 
 <h3 align="left">📫 How to reach me</h3>
-<a href="https://www.linkedin.com/in/mauricioleventer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/mauricioleventer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />&nbsp;Let's connect on LinkedIn</a></p>
 
 
 <!---
