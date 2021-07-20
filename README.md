@@ -7,13 +7,13 @@
 <p align="left">In agile development techniques for complex applications applying artificial intelligence (AI), knowledge engineering, domain-driven design (DDD), and effective technical writing.</p>
 
 <h3 align="left">🔭 Working on</h3>
-<p align="left">A HIPAA compliant software framework and database.</p>
+<p align="left">A HIPAA compliant software framework and database. <strong>You tell me what else!</strong></p>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">As much as I possibly can until 120, including: Kubernetes, Microservices, Edge computing, and Natural language processing.</p>
 
 <h3 align="left">💞️ Always looking to</h3>
-<p align="left">Collaborate on open source projects improving their documentation and also on localizations/translations.</p>
+<h4>Collaborate on open source projects improving their documentation and also on localizations/translations.</h4>
 
 <h3 align="left">📫 How to reach me</h3>
 <p align="left"><a href="https://www.linkedin.com/in/mauricioleventer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />&nbsp;Let's connect on LinkedIn</a></p>
