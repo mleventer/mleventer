@@ -1,6 +1,6 @@
 <h3 align="left">👋 Hi, I’m @mleventer</h3>
 <p align="left">A passionate software engineer, technical writer, and consultant contentedly wounded designing, building, and documenting messaging systems and frameworks for:
-<ul><li>fintech</li><li>healthcare</li><li>and other cool industries.</li></ul></p>
+<ul><li>#fintech</li><li>#healthcare</li><li>and other cool industries.</li></ul></p>
 
 <h3 align="left">👀 Interests</h3> 
 <p align="left"><ul><li>Simplify complexity in software development with artificial intelligence (AI), knowledge engineering, and domain-driven design (DDD)</li><li>Natural Language Processing</li><li>Information Mapping Methodology</li><li>ASD-STE100 Simplified Technical English</li></ul></p>
