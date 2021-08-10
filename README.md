@@ -1,12 +1,12 @@
 <h3 align="left">👋 Hi, I’m @mleventer</h3>
-<p align="left">A passionate technology consultant and software engineer contentedly wounded designing and building messaging systems and frameworks for:
+<p align="left">A passionate software engineer, technical writer, and consultant contentedly wounded designing, building, and documenting messaging systems and frameworks for:
 <ul><li>fintech</li><li>healthcare</li><li>and other cool industries.</li></ul></p>
 
 <h3 align="left">👀 Interests</h3> 
 <p align="left">In agile development techniques for complex applications applying artificial intelligence (AI), knowledge engineering, domain-driven design (DDD), and effective technical writing.</p>
 
 <h3 align="left">🔭 Working on</h3>
-<p align="left">A HIPAA compliant software framework and database. <strong>You tell me what else!</strong></p>
+<p align="left">Open source projects. <strong>You tell me what else!</strong></p>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">As much as I possibly can until 120, including: Kubernetes, Microservices, Edge computing, and Natural language processing.</p>
