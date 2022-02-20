@@ -3,7 +3,7 @@
 <ul><li>#fintech</li><li>#healthcare</li><li>#knowledgemanagement</li><li>and other cool stuff.</li></ul></p>
 
 <h3 align="left">👀 Interests</h3> 
-<p align="left"><ul><li>Simplify complexity in software development using artificial intelligence (AI)</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>Knowledge representation using ontologies</li><li>Zettelkasten as a studying and writing tool</li><li>Zettelkasten as a second brain</li><li>Information mapping methodologies</li><li>ASD-STE100 Simplified Technical English</li></ul></p>
+<p align="left"><ul><li>Simplify complexity in software development using artificial intelligence (AI)</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>knowledge representation using ontologies</li><li>Zettelkasten as a studying tool</li><li>Zettelkasten as a writing tool</li><li>Zettelkasten as a second brain</li><li>Information mapping methodologies</li><li>ASD-STE100 Simplified Technical English</li></ul></p>
 
 <h3 align="left">🔭 Working on</h3>
 <p align="left">Open source projects. <strong>You tell me what else!</strong></p>
