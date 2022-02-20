@@ -3,7 +3,7 @@
 <ul><li>#fintech</li><li>#healthcare</li><li>#knowledgemanagement</li><li>#homeautomation</li><li>#consulting</li></ul></p>
 
 <h3 align="left">👀 Interests</h3> 
-<p align="left"><ul><li>DIY pizza, cheese, bread</li><li>simplify complexity</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>knowledge representation using ontologies</li><li>Zettelkasten as a studying tool</li><li>Zettelkasten as a writing tool</li><li>Zettelkasten as a second brain</li><li>Zettelkasten to prevent dementia</li><li>information mapping methodologies</li><li>controlled vocabularies</li><li>ASD-STE100 simplified technical english</li></ul></p>
+<p align="left"><ul><li>DIY pizza, cheese, bread</li><li>simplify complexity</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>knowledge representation with ontologies</li><li>metadata annotation</li><li>Zettelkasten as a studying tool</li><li>Zettelkasten as a writing tool</li><li>Zettelkasten as a second brain</li><li>Zettelkasten to prevent dementia</li><li>information mapping methodologies</li><li>controlled vocabularies</li><li>ASD-STE100 simplified technical english</li></ul></p>
 
 <h3 align="left">🔭 Working on</h3>
 <p align="left">Open source projects.<br />
