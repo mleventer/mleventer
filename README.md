@@ -3,13 +3,13 @@
 <ul><li>#fintech</li><li>#healthcare</li><li>#knowledgemanagement</li><li>and other cool stuff.</li></ul></p>
 
 <h3 align="left">👀 Interests</h3> 
-<p align="left"><ul><li>Simplify complexity in software development and technical writing</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>knowledge representation using ontologies</li><li>Zettelkasten as a studying tool</li><li>Zettelkasten as a writing tool</li><li>Zettelkasten as a second brain</li><li>Information mapping methodologies</li><li>ASD-STE100 Simplified Technical English</li></ul></p>
+<p align="left"><ul><li>simplify complexity in software development and technical writing</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>knowledge representation using ontologies</li><li>Zettelkasten as a studying tool</li><li>Zettelkasten as a writing tool</li><li>Zettelkasten as a second brain</li><li>information mapping methodologies</li><li>controlled vocabularies</li><li>ASD-STE100 simplified technical english</li></ul></p>
 
 <h3 align="left">🔭 Working on</h3>
 <p align="left">Open source projects. <strong>You tell me what else!</strong></p>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">As much as I possibly can with my Zettelkasten.</p>
+<p align="left">As much as I possibly can with the help of a Zettelkasten.</p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
