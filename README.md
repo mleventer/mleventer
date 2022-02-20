@@ -1,18 +1,18 @@
 <h3 align="left">👋 Hi, I’m @mleventer</h3>
-<p align="left">A passionate software engineer, technical writer, and consultant contentedly wounded designing, building, and documenting messaging systems and frameworks for:
-<ul><li>#fintech</li><li>#healthcare</li><li>and other cool industries.</li></ul></p>
+<p align="left">A passionate software engineer, technical writer, and consultant contentedly wounded designing, building, and documenting software — messaging systems and frameworks for:
+<ul><li>#fintech</li><li>#healthcare</li><li>#knowledgemanagement</li><li>and other cool industries.</li></ul></p>
 
 <h3 align="left">👀 Interests</h3> 
-<p align="left"><ul><li>Simplify complexity in software development with artificial intelligence (AI), knowledge engineering, and domain-driven design (DDD)</li><li>Natural Language Processing</li><li>Knowledge representation</li><li>Information Mapping Methodology</li><li>ASD-STE100 Simplified Technical English</li></ul></p>
+<p align="left"><ul><li>Simplify complexity in software development using artificial intelligence (AI), domain-driven design (DDD)</li><li>natural language processing</li><li>Knowledge representation using ontologies</li><li>Zettelkasten as a second brain</li><li>Information mapping methodologies</li><li>ASD-STE100 Simplified Technical English</li></ul></p>
 
 <h3 align="left">🔭 Working on</h3>
 <p align="left">Open source projects. <strong>You tell me what else!</strong></p>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">As much as I possibly can until 120, including: Kubernetes, Microservices, Edge computing, and Natural language processing.</p>
+<p align="left">As much as I possibly can with my Zettelkasten.</p>
 
 <h3 align="left">💞️ Always looking to</h3>
-<h4>Collaborate on open source projects improving their documentation and also on localizations/translations.</h4>
+<h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
 
 <h3 align="left">📫 How to reach me</h3>
 <p align="left"><a href="https://www.linkedin.com/in/mauricioleventer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />&nbsp;Let's connect on LinkedIn</a></p>
