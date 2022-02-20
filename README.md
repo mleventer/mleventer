@@ -6,7 +6,10 @@
 <p align="left"><ul><li>simplify complexity in software development and technical writing</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>knowledge representation using ontologies</li><li>Zettelkasten as a studying tool</li><li>Zettelkasten as a writing tool</li><li>Zettelkasten as a second brain</li><li>information mapping methodologies</li><li>controlled vocabularies</li><li>ASD-STE100 simplified technical english</li></ul></p>
 
 <h3 align="left">🔭 Working on</h3>
-<p align="left">Open source projects. <strong>You tell me what else!</strong></p>
+<p align="left">Open source projects.<br />
+<a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a><br />
+<strong>You tell me what else!</strong>  
+</p>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">As much as I possibly can with the help of a Zettelkasten.</p>
