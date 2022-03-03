@@ -6,10 +6,10 @@
 <p align="left"><ul><li>obsessive compulsion on delivering project on-time and on-budget</li><li>simplify complexity</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>knowledge representation with ontologies</li><li>metadata annotation</li><li>Zettelkasten as a studying tool</li><li>Zettelkasten as a writing tool</li><li>Zettelkasten as a second brain (and to achieve digital immortality)</li><li>Zettelkasten as a tool to prevent dementia</li><li>information mapping methodologies</li><li>controlled vocabularies</li><li>ASD-STE100 simplified technical english</li><li>DIY pizza, cheese, breads, mediterranean food, ...</li></ul></p>
 
 <h3 align="left">🔭 Working on</h3>
-<p align="left"><ul><li>Open source projects.</li><li><a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a></li><li><strong>You tell me how I can help you!</strong></li></ul></p>
+<p align="left"><ul><li>Open source projects.</li><li>Research & Development</li><li><a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a></li><li><strong>You tell me how I can help you!</strong></li></ul></p>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">As much as I possibly can with the help of a Zettelkasten.</p>
+<p align="left">As much as I possibly can with the help of my Zettelkasten.</p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
