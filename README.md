@@ -1,5 +1,5 @@
 <h3 align="left">👋 Hi, I’m @mleventer</h3>
-<p align="left">Passionate software engineer, technical writer, and consultant <i title="[in a way that expresses happiness or satisfaction]">contentedly</i> <i title="[inflicted with a wound; injured]">wounded</i> designing, building, and documenting software. Industries: #fintech, #healthcare, #knowledgemanagement, #homeautomation, and #iot. I ❤️ what I do.</p> 
+<p align="left">Passionate software engineer, technical writer, and consultant <i title="[in a way that expresses happiness or satisfaction]">contentedly</i> <i title="[inflicted with a wound; injured]">wounded</i> designing, building, and documenting software. Industries: #fintech, #healthcare, #knowledgemanagement, #homeautomation, and #iot. BH I ❤️ what I do.</p> 
 
 <pre>
 <h3 align="left">👀 Interests</h3> 
