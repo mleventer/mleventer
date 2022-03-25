@@ -7,7 +7,7 @@
 <p align="left"><ul><li><mark>free and OPEN ACCESS to all knowledge available online</mark><li>obsessive compulsion on <mark>delivering project on-time and on-budget</mark></li><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying/learning tool</li><li><i>Zettelkasten</i></a> as a writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve digital immortality)</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind mapping everything</li><li>DIY pizza, breads, mediterranean food, ...</li></ul></p>
 
 <h3 align="left">🔭 Working on</h3>
-<p align="left"><ul><li>Open source projects</li><li>Probono consulting</li><li>Contributing to OPEN ACCESS initiatives</li><li>Technical Writings</li><li>My <i>Zettelkasten</i> implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a></li><li>Ubuntu Core&trade;</li><li><strong>Please tell me how can I help you?</strong></li></ul></p>
+<p align="left"><ul><li>open source projects</li><li>probono consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li>My <i>zettelkasten</i> implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a></li><li>Ubuntu Core&trade;</li><li><b>Please tell me how can I help you?</b></li></ul></p>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">As much as I possibly can<sup>with the help of my Zettelkasten</sup></p>
