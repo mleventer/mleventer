@@ -10,7 +10,7 @@
 <p align="left"><ul><li>Open source projects</li><li>Probono consulting</li><li>Contributing to OPEN ACCESS initiatives</li><li>Writing</li><li>My <i>Zettelkasten</i> implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a></li><li><strong>You tell me how I can help you!</strong></li></ul></p>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">As much as I possibly can with the help of my Zettelkasten.</p>
+<p align="left">As much as I possibly can<sup>with the help of my Zettelkasten</sup>.</p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
