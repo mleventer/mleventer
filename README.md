@@ -1,10 +1,11 @@
 <h3 align="left">👋 Hi, I’m @mleventer</h3>
 <p align="left">Passionate software engineer, technical writer, and consultant <i title="[in a way that expresses happiness or satisfaction]">contentedly</i> <i title="[inflicted with a wound; injured]">wounded</i> designing, building, and documenting software.</p><p>Industries: #fintech, #healthcare, #knowledgemanagement, #homeautomation, and #iot.</p>
 
-<pre>I ❤️ what I do!</pre>
+<pre>I ❤️ what I do!
 
 <h3 align="left">👀 Interests</h3> 
 <p align="left"><ul><li><mark>free and OPEN ACCESS to all knowledge available online</mark><li>obsessive compulsion on <mark>delivering project on-time and on-budget</mark></li><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying/learning tool</li><li><i>Zettelkasten</i></a> as a writing tool</li><li><i>Zettelkasten</i></a> as a second brain <span title="Show me your zettelkasten and I will tell who you are!">(and to achieve digital immortality)</span></li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind mapping everything</li><li>DIY pizza, breads, mediterranean food, ...</li></ul></p>
+</pre>
 
 <h3 align="left">🔭 Working on</h3>
 <p align="left"><ul><li>open source projects</li><li>probono consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li>My <i>zettelkasten</i> implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a></li><li>Ubuntu Core&trade;</li><li><b>Please tell me how can I help you?</b></li></ul></p>
