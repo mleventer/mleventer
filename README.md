@@ -3,10 +3,10 @@
 <ul><li>#fintech</li><li>#healthcare</li><li>#knowledgemanagement</li><li>#homeautomation</li><li>#koshertechnology</li><li>#consulting</li></ul></p>
 
 <h3 align="left">👀 Interests</h3> 
-<p align="left"><ul><li>obsessive compulsion on delivering project on-time and on-budget</li><li>simplify complexity</li><li>domain-driven design (DDD)</li><li>natural language processing</li><li>mind mapping</li><li>knowledge representation with ontologies</li><li>taxonomies</li><li>controlled vocabularies</li><li>metadata annotation</li><li>Zettelkasten as a studying tool</li><li>Zettelkasten as a writing tool</li><li>Zettelkasten as a second brain (and to achieve digital immortality)</li><li>Zettelkasten as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>DIY pizza, cheese, breads, mediterranean food, ...</li></ul></p>
+<p align="left"><ul><li>obsessive compulsion on <mark>delivering project on-time and on-budget</mark></li><li><mark>simplify complexity</mark></li><li><mark>Free and Open Access to All Knowledge</mark></li><li>natural language processing</li><li>ontology engineering</li><li>taxonomies</li><li>controlled vocabularies</li><li>metadata annotation</li><li><mark>Zettelkasten as a studying tool</mark></li><li><mark>Zettelkasten as a writing tool</mark></li><li><mark>Zettelkasten as a second brain (and to achieve digital immortality)</mark></li><li><mark>Zettelkasten as a tool to prevent dementia</mark></li><li></mark>information mapping methodologies</mark></li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind mapping</li><li>DIY pizza, breads, mediterranean food, ...</li></ul></p>
 
 <h3 align="left">🔭 Working on</h3>
-<p align="left"><ul><li>Open source projects</li><li>Research & Development</li><li><a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a></li><li><strong>You tell me how I can help you!</strong></li></ul></p>
+<p align="left"><ul><li>Open source projects</li><li>Research & Development</li><li>A Zettelkasten for myself <a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a></li><li><strong>You tell me how I can help you!</strong></li></ul></p>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">As much as I possibly can with the help of my Zettelkasten.</p>
