@@ -7,7 +7,7 @@
 </pre>
 
 <h3 align="left">🔭 Working on</h3>
-<ul><li>open source projects</li><li>probono consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li>My <i>zettelkasten</i> implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a></li><li>semantic relations between zettels</li></ul>
+<ul><li>open source projects</li><li>probono consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li>my <i>zettelkasten</i> implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a></li><li>semantic relations between zettels</li></ul>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">As much as I possibly can <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i></span></p>
