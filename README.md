@@ -10,7 +10,7 @@
 <p align="left"><ul><li>open source projects</li><li>probono consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li>My <i>zettelkasten</i> implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a></li><li>Ubuntu Core&trade;</li><li><b>Please tell me how can I help you?</b></li></ul></p>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">As much as I possibly can<sup title="Just show me your Zettelkasten and I'll tell who you are!">with the help of my Zettelkasten</sup></p>
+<p align="left">As much as I possibly can <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i></span></p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
