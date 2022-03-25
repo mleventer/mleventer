@@ -3,7 +3,7 @@
 
 <pre>
 <h3 align="left">👀 Interests</h3> 
-<ul><li><mark>free and OPEN ACCESS to all knowledge available online</mark><li>obsessive compulsion on <mark>delivering project on-time and on-budget</mark></li><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying/learning tool</li><li><i>Zettelkasten</i></a> as a writing tool</li><li><i>Zettelkasten</i></a> as a second brain <span title="Show me your zettelkasten and I will tell who you are!">(and to achieve digital immortality)</span></li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind mapping everything</li><li>DIY pizza, breads, mediterranean food, ...</li></ul>
+<ul><li><mark>free and OPEN ACCESS for all knowledge available online</mark><li>obsessive compulsion on <mark>delivering project on-time and on-budget</mark></li><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying/learning tool</li><li><i>Zettelkasten</i></a> as a writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve digital immortality)</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind mapping everything</li><li>DIY pizza, breads, mediterranean food, ...</li></ul>
 </pre>
 
 <h3 align="left">🔭 Working on</h3>
