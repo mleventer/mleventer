@@ -1,7 +1,7 @@
 <h3 align="left">👋 Hi, I’m @mleventer</h3>
 <p align="left">Passionate software engineer, technical writer, and consultant <i title="[in a way that expresses happiness or satisfaction]">contentedly</i> <i title="[inflicted with a wound; injured]">wounded</i> designing, building, and documenting software.</p><p>Industries: #fintech, #healthcare, #knowledgemanagement, #homeautomation, and #iot.</p>
 
-<blockquote>I ❤️ what I do!</blockquote>
+<ol><li><blockquote>I ❤️ what I do!</blockquote></li></ol>
 
 <h3 align="left">👀 Interests</h3> 
 <p align="left"><ul><li><mark>free and OPEN ACCESS to all knowledge available online</mark><li>obsessive compulsion on <mark>delivering project on-time and on-budget</mark></li><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying/learning tool</li><li><i>Zettelkasten</i></a> as a writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve digital immortality)</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind mapping everything</li><li>DIY pizza, breads, mediterranean food, ...</li></ul></p>
