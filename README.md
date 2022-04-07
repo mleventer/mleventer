@@ -3,7 +3,7 @@
 
 ```mermaid
 flowchart LR
-    A([Mauricio Leventer]) --->|HAS| B([Interests])
+    A([Mauricio Leventer]) -->|HAS| B([Interests])
     B ---> I1([free and OPEN ACCESS for all knowledge available online])
     B ---> I2([obsessive compulsion on delivering projects on-time and on-budget])
     B ---> I3([ontology engineering, taxonomies, controlled vocabularies, metadata annotation])
@@ -17,7 +17,7 @@ flowchart LR
     J --->|FOR| J1([studying / learning / writing tool]) 
     J --->|AS| J2([second brain and to achieve some digital immortality]) 
     J --->|AS| J3([tool to prevent dementia])
-    A --->|IS| C([working on])
+    A -->|IS| C([working on])
     C ---> C1([open source projects])
     C ---> C2([probono consulting])
     C ---> C3([technical writings])
@@ -25,7 +25,7 @@ flowchart LR
     C ---> H([my Zettelkasten implementation])
     H ---> H1([zk.open-ontology.org])
     C ---> H2([semantic relations between zettels])
-    A --->|IS| D([currently learning])
+    A -->|IS| D([currently learning])
     D ---> D1([As much as I possibly can])
     D1 --->|WITH THE HELP OF| D2([my Zettelkasten])
     style A fill:#f9f,stroke:#333,stroke-width:4px
