@@ -3,11 +3,10 @@
 
 ```mermaid
 flowchart LR
-    A([Mauricio Leventer]) -->|IS-A| A1([person])
-    A1 ---> A2([passionate software engineer])
-    A1 ---> A3([technical writer])
-    A1 ---> A4([consultant])
-    A1 -->|HAS| AA([profession])
+    A([Mauricio Leventer]) -->|IS-A| A2([passionate software engineer])
+    A -->|IS-A| A3([technical writer])
+    A -->|IS-A| A4([consultant])
+    A -->|HAS| AA([profession])
     AA ---> A5([designs, builds, and documents])
     A5 ---> A6([software])
     A6 -->|FOR| A7([#fintech])
