@@ -28,6 +28,11 @@ flowchart LR
     A -->|IS| D([currently learning])
     D --> D1([As much as I possibly can])
     D1 -->|WITH THE HELP OF| D2([my Zettelkasten])
+    A -->|always looking to|E([collaborate])
+    E ---> E1([open source projects])
+    E ---> E2([improving existing documentation])
+    E ---> E3([creating unexisting documentation])
+    E ---> E4([localizations and translations])
     style A fill:#f9f,stroke:#333,stroke-width:4px
 ```
 <h3 align="left">👀 Interests</h3> 
