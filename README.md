@@ -3,7 +3,7 @@
 
 ```mermaid
 flowchart LR
-    id1([This is the text in the box])
+    id1([👀 Interests])
 ```
 <h3 align="left">👀 Interests</h3> 
 <ul><li><mark>free and OPEN ACCESS for all knowledge available online</mark><li>obsessive compulsion on <mark>delivering projects on-time and on-budget</mark></li><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve some 'digital immortality')</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind mapping everything</li><li>DIY my own cheese*, bread*, pizza*, and mediterranean food.</li></ul><br /> <i>*By the way, after my kidney surgery I'm considering not to make / eat cheese, pizza, or any salted foods again.</i>
