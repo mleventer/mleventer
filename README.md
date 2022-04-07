@@ -14,9 +14,9 @@ flowchart LR
     B ---> I8([domain-driven design]) 
     B ---> I9([simplify complexity]) 
     B ---> J([Zettelkasten])
-    J --->|FOR| J1([studying / learning / writing tool]) 
-    J --->|AS| J2([second brain and to achieve some digital immortality]) 
-    J --->|AS| J3([tool to prevent dementia])
+    J -->|FOR| J1([studying / learning / writing tool]) 
+    J -->|AS| J2([second brain and to achieve some digital immortality]) 
+    J -->|AS| J3([tool to prevent dementia])
     A -->|IS| C([working on])
     C ---> C1([open source projects])
     C ---> C2([probono consulting])
@@ -26,8 +26,8 @@ flowchart LR
     H ---> H1([zk.open-ontology.org])
     C ---> H2([semantic relations between zettels])
     A -->|IS| D([currently learning])
-    D ---> D1([As much as I possibly can])
-    D1 --->|WITH THE HELP OF| D2([my Zettelkasten])
+    D --> D1([As much as I possibly can])
+    D1 -->|WITH THE HELP OF| D2([my Zettelkasten])
     style A fill:#f9f,stroke:#333,stroke-width:4px
 ```
 <h3 align="left">👀 Interests</h3> 
