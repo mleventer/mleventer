@@ -28,11 +28,13 @@ flowchart LR
     A -->|IS| D([currently learning])
     D --> D1([As much as I possibly can])
     D1 -->|WITH THE HELP OF| D2([my Zettelkasten])
-    A -->|always looking to|E([collaborate])
+    A -->|ALWAYS LOOKING TO|E([collaborate])
     E ---> E1([open source projects])
     E ---> E2([improving existing documentation])
     E ---> E3([creating unexisting documentation])
     E ---> E4([localizations and translations])
+    A -->|HAS| F([blog])
+    F ---> F1([https://blog.leventer.net])
     style A fill:#f9f,stroke:#333,stroke-width:4px
 ```
 <h3 align="left">👀 Interests</h3> 
@@ -48,7 +50,7 @@ flowchart LR
 <h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
 
 <h3 align="left"> 📓 Blog</h3>
-<p align="left"><a target="_blank" href="https://blog.leventer.net/" target="_blank">https://blog.leventer.net/</a></p>
+<p align="left"><a target="_blank" href="https://blog.leventer.net" target="_blank">https://blog.leventer.net/</a></p>
 
 <h3 align="left">📫 How to reach me</h3>
 <p align="left"><a href="https://www.linkedin.com/in/mauricioleventer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />&nbsp;Let's connect on LinkedIn</a></p>
