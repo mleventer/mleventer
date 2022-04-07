@@ -24,7 +24,7 @@
 
 ```mermaid
 flowchart LR
-    A[[Mauricio Leventer]] -->|IS-A| A2([passionate software engineer])
+    A[Mauricio Leventer] -->|IS-A| A2([passionate software engineer])
     A -->|IS-A| A3([technical writer])
     A -->|IS-A| A4([consultant])
     A -->|IS-A| AA([professional])
