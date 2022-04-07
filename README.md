@@ -3,11 +3,11 @@
 
 ```mermaid
 flowchart LR
-    A([Mauricio Leventer]) -->|IS-A| A2([passionate software engineer])
+    A[[Mauricio Leventer]] -->|IS-A| A2([passionate software engineer])
     A -->|IS-A| A3([technical writer])
     A -->|IS-A| A4([consultant])
-    A -->|HAS| AA([profession])
-    AA ---> A5([designs, builds, and documents])
+    A -->|IS-A| AA([professional])
+    AA -->|THAT| A5([designs, builds, and documents])
     A5 ---> A6([software])
     A6 -->|FOR| A7([#fintech])
     A6 -->|FOR| A8([#healthcare])
@@ -47,7 +47,7 @@ flowchart LR
     E ---> E4([localizations and translations])
     A -->|HAS| F([blog])
     F ---> F1([https://blog.leventer.net])
-    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style A fill:#f9f,stroke:#333,stroke-width:5px
 ```
 <h3 align="left">👀 Interests</h3> 
 <ul><li><mark>free and OPEN ACCESS for all knowledge available online</mark><li>obsessive compulsion on <mark>delivering projects on-time and on-budget</mark></li><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve some 'digital immortality')</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind mapping everything</li><li>DIY my own cheese*, bread*, pizza*, and mediterranean food.</li></ul><br /> <i>*By the way, after my kidney surgery I'm considering not to make / eat cheese, pizza, or any salted foods again.</i>
