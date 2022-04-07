@@ -19,7 +19,7 @@
 <h3 align="left">📫 How to reach me</h3>
 <p align="left"><a href="https://www.linkedin.com/in/mauricioleventer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />&nbsp;Let's connect on LinkedIn</a></p>
 
-<p>&nbsp;</p><h3 align="left">🗺️ This is my representation for visual learners:</h3>
+<h3 align="left">🗺️ mleventer (for visual learners):</h3>
 
 ```mermaid
 flowchart LR
