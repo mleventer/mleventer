@@ -11,7 +11,7 @@ flowchart LR
     B ---> I5([ontology engineering, taxonomies, controlled vocabularies, metadata annotation])
     B ---> J([Zettelkasten])
     J --->|as| J1([a studying / learning / writing tool]) 
-    J --->|as| J2([a second brain (and to achieve some 'digital immortality')]) 
+    J --->|as| J2([a second brain and to achieve some digital immortality]) 
     J --->|as| J3([a tool to prevent dementia]) 
     A --->| is working on | C1([open source projects])
     A --->| is working on | C2([probono consulting])
