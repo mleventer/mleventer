@@ -3,7 +3,7 @@
 
 ```mermaid
 flowchart LR
-    A[[Mauricio Leventer]] ==>|IS-A| A2([passionate software engineer])
+    A[[Mauricio Leventer]] -->|IS-A| A2([passionate software engineer])
     A -->|IS-A| A3([technical writer])
     A -->|IS-A| A4([consultant])
     A -->|IS-A| AA([professional])
@@ -15,7 +15,7 @@ flowchart LR
     A6 -->|FOR| A10([#healthcare])
     A6 -->|FOR| A11([#homeautomation])
     A6 -->|FOR| A12([#IOT])    
-    A -->|HAS| B([Interests])
+    A ===>|HAS| B([Interests])
     B ---> I1([free and OPEN ACCESS for all knowledge available online])
     B ---> I2([obsessive compulsion on delivering projects on-time and on-budget])
     B ---> I3([ontology engineering, taxonomies, controlled vocabularies, metadata annotation])
@@ -29,7 +29,7 @@ flowchart LR
     J -->|FOR| J1([studying / learning / writing tool]) 
     J -->|AS| J2([second brain and to achieve some digital immortality]) 
     J -->|AS| J3([tool to prevent dementia])
-    A -->|IS| C([working on])
+    A ===>|IS| C([working on])
     C ---> C1([open source projects])
     C ---> C2([probono consulting])
     C ---> C3([technical writings])
@@ -37,15 +37,15 @@ flowchart LR
     C ---> H([my Zettelkasten implementation])
     H ---> H1([zk.open-ontology.org])
     C ---> H2([semantic relations between zettels])
-    A -->|IS| D([currently learning])
+    A ===>|IS| D([currently learning])
     D --> D1([As much as I possibly can])
     D1 -->|WITH THE HELP OF| D2([my Zettelkasten])
-    A -->|ALWAYS LOOKING TO|E([collaborate])
+    A ===>|ALWAYS LOOKING TO|E([collaborate])
     E ---> E1([open source projects])
     E ---> E2([improving existing documentation])
     E ---> E3([creating unexisting documentation])
     E ---> E4([localizations and translations])
-    A -->|HAS| F([blog])
+    A --->|HAS| F([blog])
     F ---> F1([https://blog.leventer.net])
     style A fill:#f9f,stroke:#333,stroke-width:5px
 ```
