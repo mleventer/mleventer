@@ -3,7 +3,11 @@
 
 ```mermaid
 flowchart LR
-    A([Mauricio Leventer]) -->|HAS| B([Interests])
+    A([Mauricio Leventer]) -->|IS-A| A1([person])
+    A1 ---> A2([passionate software engineer])
+    A1 ---> A3([technical writer])
+    A1 ---> A4([consultant])
+    A -->|HAS| B([Interests])
     B ---> I1([free and OPEN ACCESS for all knowledge available online])
     B ---> I2([obsessive compulsion on delivering projects on-time and on-budget])
     B ---> I3([ontology engineering, taxonomies, controlled vocabularies, metadata annotation])
