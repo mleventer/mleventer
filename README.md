@@ -4,8 +4,8 @@
 <h3 align="left">👀 Interests</h3> 
 <ul><li><mark>free and OPEN ACCESS for all knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve some 'digital immortality')</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind/concept mapping</li><li>DIY my own cheese*, bread*, pizza*, and mediterranean food.</li></ul><br /> <i>*By the way, after my kidney surgeries I'm not making or consuming cheese, pizza, or any salted food.</i>
 
-<h3 align="left">🔭 Working on</h3>
-<ul><li>open source projects</li><li>probono consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li><i>Zettelkasten</i> v2. implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a></li><li>semantic relations between zettels</li></ul>
+<h3 align="left">🔭 Working Probono on</h3>
+<ul><li>open source projects</li><li>technology consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li><i>Zettelkasten</i> v2. implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a> (semantic relations between zettels)</ul>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">As much as I possibly can <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i></span></p>
@@ -37,7 +37,6 @@ flowchart LR
     A6 -->|FOR| A12([#IOT])    
     A ===>|HAS| B([Interests])
     B ---> I1([free and OPEN ACCESS for all knowledge available online])
-    B ---> I2([obsessive compulsion on delivering projects on-time and on-budget])
     B ---> I3([ontology engineering, taxonomies, controlled vocabularies, metadata annotation])
     B ---> I4([ASD-STE100 simplified technical english])
     B ---> I5([information mapping methodologies])
@@ -49,9 +48,9 @@ flowchart LR
     J -->|FOR| J1([studying / learning / writing tool]) 
     J -->|AS| J2([second brain and to achieve some digital immortality]) 
     J -->|AS| J3([tool to prevent dementia])
-    A ===>|IS| C([working on])
+    A ===>|IS| C([working Probono on])
     C ---> C1([open source projects])
-    C ---> C2([probono consulting])
+    C ---> C2([technology consulting])
     C ---> C3([technical writings])
     C ---> C4([contributing to OPEN ACCESS initiatives])
     C ---> H([my Zettelkasten implementation])
