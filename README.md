@@ -4,7 +4,7 @@
 <h3 align="left">👀 Interests</h3> 
 <ul><li><mark>free and OPEN ACCESS for all knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve some 'digital immortality')</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>information mapping methodologies</li><li>ASD-STE100 simplified technical english</li><li>domain-driven design (DDD)</li><li>mind/concept mapping</li><li>DIY my own cheese*, bread*, pizza*, and mediterranean food.</li></ul><br /> <i>*By the way, after my kidney surgeries I'm not making or consuming cheese, pizza, or any salted food.</i>
 
-<h3 align="left">🔭 Working Probono on</h3>
+<h3 align="left">🔭 Working probono on</h3>
 <ul><li>open source projects</li><li>technology consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li><i>Zettelkasten</i> v2. implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a> (semantic relations between zettels)</ul>
 
 <h3 align="left">🌱 Currently learning</h3>
