@@ -13,9 +13,6 @@
 <h3 align="left">💞️ Always looking to</h3>
 <h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
 
-<h3 align="left"> 📓 Blog</h3>
-<p align="left"><a target="_blank" href="https://blog.leventer.net" target="_blank">https://blog.leventer.net/</a></p>
-
 <h3 align="left">📫 How to reach me</h3>
 <p align="left"><a href="https://www.linkedin.com/in/mauricioleventer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />&nbsp;Let's connect on LinkedIn</a></p>
 
