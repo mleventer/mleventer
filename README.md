@@ -5,10 +5,10 @@
 <ul><li><mark>free and OPEN ACCESS for all knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve some 'digital immortality')</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>Python</li><li>SQL</li><li>domain-driven design (DDD)</li><li>Kosher cooking</li></ul><br /> 
 
 <h3 align="left">🔭 Working [probono] on</h3>
-<ul><li>open source projects</li><li>technology consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li><i>Zettelkasten</i> v2. implementation @ <a href="https://zk.open-ontology.org/" target="_blank">[zk.open-ontology.org]</a> (semantic relations between zettels)</ul>
+<ul><li>open source projects</li><li>technology consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li><i>Zettelkasten</i> v3. wordpress implementation @ <a href="https://asteristica.com/" target="_blank">[asteristica.com]</a> </ul>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">Psychology <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i>.</span></p>
+<p align="left">Time, AI, Knowledge Management <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i>.</span></p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
