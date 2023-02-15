@@ -61,8 +61,6 @@ flowchart LR
     E ---> E2([improving existing documentation])
     E ---> E3([creating unexisting documentation])
     E ---> E4([localizations and translations])
-    A --->|HAS| F([blog])
-    F ---> F1([https://blog.leventer.net])
     style A fill:#f9f,stroke:#333,stroke-width:5px
 ```
 
