@@ -5,7 +5,7 @@
 <ul><li><mark>free and OPEN ACCESS for all knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li><i>Zettelkasten</i></a> as a second brain (and to achieve some 'digital immortality')</li><li><i>Zettelkasten</i></a> as a tool to prevent dementia</li><li>Python</li><li>SQL</li><li>domain-driven design (DDD)</li><li>Kosher cooking</li></ul> 
 
 <h3 align="left">🔭 Working [probono] on</h3>
-<ul><li>open source projects</li><li>technology consulting</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li><i>Zettelkasten</i> v3. wordpress implementation @ <a href="https://asteristica.com/" target="_blank">[asteristica.com]</a> </ul>
+<ul><li>open source projects</li><li>technology consulting</li><li>web development for non-profits</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li><i>Zettelkasten</i> v3. wordpress implementation @ <a href="https://asteristica.com/" target="_blank">[asteristica.com]</a> </ul>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">Time, AI, Knowledge Management <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i>.</span></p>
