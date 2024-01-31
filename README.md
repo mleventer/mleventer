@@ -1,5 +1,5 @@
 <h3 align="left">Hey 🖖, I’m @mleventer</h3>
-<p align="left">Passionate software engineer, technical writer, and consultant <i title="[in a way that expresses happiness or satisfaction]">contentedly</i> <i title="[inflicted with a wound; injured]">wounded</i> designing, coding, building, and documenting software for: #fintech, #healthcare, #knowledgemanagement, #homeautomation, and #iot. <b>BH, I ❤️ all of these!</b></p> 
+<p align="left">Passionate software engineer, technical writer, and consultant <i title="[in a way that expresses happiness or satisfaction]">contentedly</i> <i title="[inflicted with a wound; injured]">wounded</i> designing, coding, building, and documenting software for: #fintech, #healthcare, #knowledgemanagement, #homeautomation, and #iot.</p> 
 
 <h3 align="left">👀 Interests</h3> 
 <ul><li><mark>free and OPEN ACCESS for <strong>all</strong> knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li>international standards</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li>Python</li><li>Go</li><li>AI-powered domain-driven design (DDD) tools</li><li>Kosher cooking &amp; compliance</li></ul> 
