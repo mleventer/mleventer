@@ -8,7 +8,7 @@
 <ul><li>open source projects</li><li>web development for non-profits</li><li>contributing to OPEN ACCESS initiatives</li><li>standards specifications</li><li><i>Zettelkasten</i> v3. wordpress implementation with AI tools</li></ul>
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">Time, AI, Knowledge Management <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i>.</span></p>
+<p align="left">Time, AI-related topics, and Knowledge Management <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i>.</span></p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <h4>Collaborate on open source projects, improving existing documentation, creating unexisting documentation, and also on localizations/translations.</h4>
