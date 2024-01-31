@@ -5,7 +5,7 @@
 <ul><li><mark>free and OPEN ACCESS for <strong>all</strong> knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li>international standards</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li>Python</li><li>Go</li><li>AI-powered domain-driven design (DDD) tools</li><li>Kosher cooking &amp; compliance</li></ul> 
 
 <h3 align="left">🔭 Working [probono] on</h3>
-<ul><li>open source projects</li><li>technology consulting</li><li>web development for non-profits</li><li>contributing to OPEN ACCESS initiatives</li><li>technical writings</li><li><i>Zettelkasten</i> v3. wordpress implementation with AI tools</li></ul>
+<ul><li>open source projects</li><li>web development for non-profits</li><li>contributing to OPEN ACCESS initiatives</li><li>standards specifications</li><li><i>Zettelkasten</i> v3. wordpress implementation with AI tools</li></ul>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">Time, AI, Knowledge Management <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i>.</span></p>
