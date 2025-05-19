@@ -4,9 +4,6 @@
 <h3 align="left">👀 Interests</h3> 
 <ul><li><mark>free and OPEN ACCESS for <strong>all</strong> knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>natural language processing</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li>international standards</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li>AI-powered domain-driven design (DDD) tools</li><li>Kosher cooking &amp; compliance</li></ul> 
 
-<h3 align="left">🔭 Working [probono] on</h3>
-<ul><li>open source projects</li><li>web development for non-profits</li><li>contributing to OPEN ACCESS initiatives</li><li>standards specifications</li><li><i>Zettelkasten</i> v3. wordpress implementation with AI tools</li></ul>
-
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">Time, AI-related topics, and Knowledge Management <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i>.</span></p>
 
@@ -45,14 +42,6 @@ flowchart LR
     J -->|FOR| J1([studying / learning / writing tool]) 
     J -->|AS| J2([second brain and to achieve some digital immortality]) 
     J -->|AS| J3([tool to prevent dementia])
-    A ===>|IS| C([working Probono on])
-    C ---> C1([open source projects])
-    C ---> C2([technology consulting])
-    C ---> C3([technical writings])
-    C ---> C4([contributing to OPEN ACCESS initiatives])
-    C ---> H([my Zettelkasten implementation])
-    H ---> H1([zk.open-ontology.org])
-    C ---> H2([semantic relations between zettels])
     A ===>|IS| D([currently learning])
     D --> D1([As much as I possibly can])
     D1 -->|WITH THE HELP OF| D2([my Zettelkasten])
