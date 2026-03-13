@@ -2,7 +2,7 @@
 <p align="left">Passionate agile project manager, developer, technical writer, and consultant <i title="[in a way that expresses happiness or satisfaction]">contentedly</i> <i title="[inflicted with a wound; injured]">wounded</i> designing, coding, building, and documenting software for: #fintech, #healthcare, #manufacturing, #automation, and #iiot.</p> 
 
 <h3 align="left">👀 Interests</h3> 
-<ul><li><mark>free and OPEN ACCESS for <strong>all</strong> knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>software development</li><li>ASD-STE100 simplified technical english</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li>information mapping methodologies</li><li>international standards</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li>AI-powered domain-driven design (DDD) tools</li><li>Kosher compliance</li></ul> 
+<ul><li><mark>free and OPEN ACCESS for <strong>all</strong> knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>software development</li><li>ASD-STE100 simplified technical english</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li>information mapping methodologies</li><li>international standards</li><li>AI-powered domain-driven design (DDD) tools</li><li>Kosher compliance</li></ul> 
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left">Industry 4.0 → 5.0, Digital Twins, and some AI-related topics.</p>
@@ -40,13 +40,10 @@ flowchart LR
     B ---> I8([domain-driven design]) 
     B ---> I9([simplify complexity])
     B ---> I10([Kosher compliance])
-    B ---> J([Zettelkasten])
-    J -->|FOR| J1([studying / learning / writing tool]) 
-    J -->|AS| J2([second brain and to achieve some digital immortality]) 
-    J -->|AS| J3([tool to prevent dementia])
     A ===>|IS| D([currently learning])
-    D --> D1([As much as I possibly can])
-    D1 -->|WITH THE HELP OF| D2([my Zettelkasten])
+    D --> D1([Industry 4.0 → 5.0])
+    D --> D2([Digital Twins])
+    D --> D3([AI-related topics])
     A ===>|ALWAYS LOOKING TO|E([collaborate])
     E ---> E1([open source projects])
     E ---> E2([improving existing documentation])
