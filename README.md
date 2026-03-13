@@ -5,7 +5,7 @@
 <ul><li><mark>free and OPEN ACCESS for <strong>all</strong> knowledge available online</mark><li><mark>simplify complexity</mark></li></li><li>software development</li><li>ASD-STE100 simplified technical english</li><li>ontology engineering, taxonomies, controlled vocabularies, metadata annotation</li><li>information mapping methodologies</li><li>international standards</li><li><i>Zettelkasten</i></a> as a studying / learning / writing tool</li><li>AI-powered domain-driven design (DDD) tools</li><li>Kosher compliance</li></ul> 
 
 <h3 align="left">🌱 Currently learning</h3>
-<p align="left">Time, AI-related topics, and Knowledge Management <span title="[Show me your Zettelkasten and I'll tell who you are...]">with the help of my <i>Zettelkasten</i>.</span></p>
+<p align="left">Industry 4.0 → 5.0, Digital Twins, and some AI-related topics.</p>
 
 <h3 align="left">💞️ Always looking to</h3>
 <h4>Collaborate on open source projects, improving existing documentation, creating non-existent documentation, and also on localizations/translations.</h4>
