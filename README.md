@@ -20,7 +20,7 @@ flowchart LR
     A[Mauricio Leventer] -->|IS-A| A2([passionate software engineer])
     A -->|IS-A| A3([technical writer])
     A -->|IS-A| A4([consultant])
-    A -->|IS-A| AA([project manager])
+    A -->|IS-A| AA([agile project manager])
     A -->|IS-A| AC([developer])
     AC -->|THAT| A5([designs, builds, and documents])
     A5 ---> A6([software])
